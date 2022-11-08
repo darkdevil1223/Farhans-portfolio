@@ -1,0 +1,37 @@
+.taskbar{
+    display: flex;
+    padding: 25px;
+    /* justify-content: space-evenly; */
+    text-decoration: none;
+    list-style-type: none;
+    position: absolute;
+    margin-left: 415px;
+}
+.taskbar li{
+    text-decoration: none;
+    margin: 101px;
+}
+.intro{
+    position: absolute;
+    /* margin-top: 335px; */
+    margin-left: 69px;
+    margin-top: 197px;
+    font-size: 100px;
+}
+.intro h1{
+    margin-left: 6px;
+    margin-top: -136px;
+    font-size: 100px;
+
+}
+.intro p{
+    color: gray;
+    margin-top: 32px;
+    font-size: 65px;
+}
+/* .body container{
+    background-color: #d5d5d5;;
+} */
+.body{
+    background-color:#d5d5d5;
+}
