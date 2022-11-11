@@ -5,11 +5,15 @@
     text-decoration: none;
     list-style-type: none;
     position: absolute;
-    margin-left: 415px;
+    margin-left: 734px;
 }
 .taskbar li{
     text-decoration: none;
-    margin: 101px;
+    margin: 22px;
+}
+.taskbar a{
+    text-decoration: none;
+    color: grey;
 }
 .intro{
     position: absolute;
