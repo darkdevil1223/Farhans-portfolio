@@ -15,6 +15,10 @@
     text-decoration: none;
     color: grey;
 }
+.taskbar a:hover{
+    color: black;
+
+}
 .intro{
     position: absolute;
     /* margin-top: 335px; */
